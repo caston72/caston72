@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @caston72
-- 👀 I’m interested in front end development to start, but would like to expand from there.
-- 🌱 I’m currently learning HTML, CSS, GitHub, JS, JS React, and more.
-- 💞️ I’m looking to collaborate on future websites at my new job 
-- 📫 How to reach me amber.aston@gmail.com
+- 👀 I am a Cybersecurity Specialist.
+- 🌱 I’m currently studying for my Securty+ Certification.
+- 💞️ I’m looking to work in the cybersecurity field.
+- 📫 How to reach me amber.aston@icloud.com
 
 <!---
 caston72/caston72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
