@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @caston72
 - 👀 I am a Cybersecurity Specialist.
-- 🌱 I’m currently studying for my Securty+ Certification.
+- 🌱 Currently hold a CompTIA Securty+ Certification.
 - 💞️ I’m looking to work in the cybersecurity field.
 - 📫 How to reach me amber.aston@icloud.com
 
